@@ -1,6 +1,6 @@
 
 const defaultState={
-  inputValue:'哈哈哈是的我',
+  inputValue:"就是本大爷",
   list:[]
 };
 
